@@ -1,5 +1,4 @@
 # Youtube Content Downloader
-## Youtube Content Downloader | Python
 
 ## Basic Usage!
 
